@@ -1,6 +1,7 @@
 # Pixel Art Generator
 
-![Pixel Art Generator Logo](https://example.com/path/to/logo.png)
+![Pixel Art Generator Screenshot](screenshot.jpg)
+
 
 ## Overview
 
@@ -9,8 +10,6 @@ The Pixel Art Generator is a simple tool that allows users to create pixel art i
 ## Demo
 
 Check out the [Pixel Art Generator Demo](https://your-username.github.io/pixel-art-generator-demo/) to see the tool in action.
-
-![Pixel Art Generator Screenshot](screenshot.jpg)
 
 ## Features
 
